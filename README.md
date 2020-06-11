@@ -1,9 +1,9 @@
 # Handwritten-Digit-Recognition-using-CNN
 
 This CNN based project is used to recognize the handwritten digts.
-Dataset: MNIST Digit Classification 
-Activation Functions: ReLu, Softmax
-Optimizer: Adam
+Dataset: MNIST Digit Classification , 
+Activation Functions: ReLu, Softmax ,
+Optimizer: Adam ,
 Accuracy: ~98.5%
 
 Procedure to run the code:
